@@ -1,22 +1,20 @@
 
 [DOCUMENTATION]
-ORG_NAME="OilNigerian"
+ORG_NAME="Nigerian Petrol"
 ORG_URL="https://www.oilnigerian.com"
-ORG_DESCRIPTION="The Nigerian National Petroleum Corporation is an integrated Oil and Gas Company, engaged in adding value to the nation’s hydrocarbon resources for the benefit of all Nigerians and other stakeholders"
-ORG_TWITTER="@oilnigerian"
 ORG_LOGO="https://i.ibb.co/D8pB6xt/NNPC-Logo.jpg"
 ORG_OFFICIAL_EMAIL="nigerianpetrol@protonmail.com"
 
 
 [[CURRENCIES]]
-code="OilNigerian"
+code="OILNIGERIAN"
+status="live"
 issuer="GBUTVHXDIAI4WHTGTG4GMHEUJID37BOG4ZOWWMS4J473JOKGQTCBYKW5"
-anchor_asset="false"
-name="OilNigerian"
+display_decimals=2
+name="Oil Nigerian"
 desc="The Nigerian National Petroleum Corporation (NNPC) is the state oil corporation which was established on April 1, 1977. In addition to its exploration activities, the Corporation was given powers and operational interests in refining, petrochemicals and products transportation as well as marketing. Between 1978 and 1989, NNPC constructed refineries in Warri, Kaduna and Port Harcourt and took over the 35,000-barrel Shell Refinery established in Port Harcourt in 1965."
-conditions="NNPC will be a world-class oil and gas asset driven by shared commitment to excellence."
+conditions="The Nigerian National Petroleum Corporation is an integrated Oil and Gas Company, engaged in adding value to the nation’s hydrocarbon resources for the benefit of all Nigerians and other stakeholders."
 image="https://i.ibb.co/D8pB6xt/NNPC-Logo.jpg"
-fixed_number=1000000
-max_number=1000000
 is_unlimited=false
-#Oilnigerian was issued using the open and inclusive Stellar blockchain network.
+anchor_asset_type="STOCK"
+anchor_asset="Oil Nigerian"
