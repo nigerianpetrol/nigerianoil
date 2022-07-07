@@ -1,4 +1,3 @@
-
 [DOCUMENTATION]
 ORG_NAME="Nigerian Petrol"
 ORG_URL="https://www.oilnigerian.com"
@@ -11,7 +10,6 @@ code="OILNIGERIAN"
 status="live"
 issuer="GBUTVHXDIAI4WHTGTG4GMHEUJID37BOG4ZOWWMS4J473JOKGQTCBYKW5"
 name="Oil Nigerian"
-desc="The Nigerian National Petroleum Corporation (NNPC) is the state oil corporation which was established on April 1, 1977. In addition to its exploration activities, the Corporation was given powers and operational interests in refining, petrochemicals and products transportation as well as marketing. Between 1978 and 1989, NNPC constructed refineries in Warri, Kaduna and Port Harcourt and took over the 35,000-barrel Shell Refinery established in Port Harcourt in 1965."
-conditions="The Nigerian National Petroleum Corporation is an integrated Oil and Gas Company, engaged in adding value to the nation’s hydrocarbon resources for the benefit of all Nigerians and other stakeholders."
+desc="Asset fully backed by Nigerian Petrol"
+conditions="OILNIGERIAN is now live" 
 image="https://i.ibb.co/D8pB6xt/NNPC-Logo.jpg"
-is_unlimited=false
